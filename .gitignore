@@ -1,0 +1,15 @@
+### Node ###
+node_modules/
+
+### MACOS ###
+.DS_Store
+
+## Visual Regression ##
+screenshots
+
+# VSCode
+.VSCode
+
+##Temp Folder##
+.tmp
+test/docs/desktop_chrome
