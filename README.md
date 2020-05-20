@@ -1,8 +1,8 @@
 # Technology used...
-Framework: WebdriverIO
-Pattern: Page Object Model
-Assertions: Chai
-Style: Mocha BDD
+Framework: WebdriverIO, 
+Pattern: Page Object Model,
+Assertions: Chai,
+Style: Mocha BDD,
 
 # Setup...
 Node version v12.16.2
