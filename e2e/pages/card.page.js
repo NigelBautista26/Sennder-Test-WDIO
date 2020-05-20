@@ -74,9 +74,9 @@ class cardPage {
   confirmDeleteButton() {
     this.confirmDelete.click()
     let elem = $('.card.m-1.no-highlighting.animated.border-danger.text-center')
-    let successMessage = $('.toast-message')
+    let deleteSuccessMessage = $('.toast-message')
     browser.waitUntil(() => elem.isExisting() == false)
-    browser.waitUntil(() => successMessage.isExisting() == false)
+    browser.waitUntil(() => deleteSuccessMessage.isExisting() == false)
   }
 
 }
