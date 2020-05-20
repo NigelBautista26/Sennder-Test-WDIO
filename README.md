@@ -1,6 +1,6 @@
 # Technology used...
 Framework: WebdriverIO, 
-Pattern: Page Object Model,
+Architecture: Page Object Model,
 Assertions: Chai,
 Style: Mocha BDD,
 
